@@ -3,7 +3,7 @@
 ## 📌 Sou iniciante na programação e estou começando pelo JavaScript. 
 
 - 🌱 Tive meu primeiro contato através de criação de bots no discord.
-- 📫 Tenho 17y
+- 🎉 Tenho 17y
 - 📫 Caso queira falar comigo me chame no discord, Kyuno # 0016
 
 ## 🔨 Ferramentas que ultilizo:
