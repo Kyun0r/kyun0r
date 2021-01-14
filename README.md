@@ -1,8 +1,6 @@
-###  👋
+###  Ola a todos!
 
-
-Kyun0r/kyun0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Sou estudante e iniciante na programação, 17y
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
