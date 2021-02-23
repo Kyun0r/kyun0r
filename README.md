@@ -2,7 +2,7 @@
 
 ## 📌 Não sei programar
 
-- 🌱 Brotp
+- 🌱 Broto
 - 🎉  17y
 - 📫 Caso queira falar comigo me chame no discord, kyunox#1889
 
