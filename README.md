@@ -1,10 +1,10 @@
 ### Hello 👋
 
-## 📌 kyunox#1889
+## 📌 Não sei programar
 
 - 🌱 Brotp
 - 🎉  17y
-- 📫 Caso queira falar comigo me chame no discord, Kyuno # 0016
+- 📫 Caso queira falar comigo me chame no discord, kyunox#1889
 
 ## 🔨 Ferramentas que ultilizo:
 
